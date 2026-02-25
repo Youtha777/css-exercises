@@ -3,26 +3,31 @@ body {
   margin: 0 auto;
 }
 
+
+/*changed padding and margin based on bullet point 1 & 2*/
 .one {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  padding: 32px;
+  margin: 12px;
 }
 
+/*changed margin-bottom based on bullet point 3*/
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 0px;
+  margin-bottom: 48px;
 }
 
+/*changed padding and margin-left based on bullet point 1, 4, 5*/
 .three {
   background: peachpuff;
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 32px;
+  margin-left: 330px;
 }
+
